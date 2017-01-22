@@ -1,6 +1,5 @@
 package Math;
 
-import java.util.ArrayList;
 
 public class CalculatePrimes extends  Thread {
 
